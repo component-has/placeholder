@@ -2,7 +2,7 @@
   "name": "placeholder",
   "repo": "component-has/placeholder",
   "description": "check if the browser supports placeholder for both inputs and textarea.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["has", "input", "textarea", "placeholder", "?"],
   "dependencies": {
     "component-has/textarea-placeholder": "*",
