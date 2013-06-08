@@ -7,9 +7,14 @@
 
     $ component install component-has/placeholder
 
-## API
+## Example
 
-   
+```js
+var has = require('placeholder');
+it('should export a boolean', function(){
+  assert('boolean' == typeof has);
+})
+```
 
 ## License
 
