@@ -1,0 +1,17 @@
+{
+  "name": "placeholder",
+  "repo": "component-has/placeholder",
+  "description": "check if the browser supports placeholder for both inputs and textarea.",
+  "version": "0.0.1",
+  "keywords": ["has", "input", "textarea", "placeholder", "?"],
+  "dependencies": {
+    "component-has/textarea-placeholder": "*",
+    "component-has/input-placeholder": "*"
+  },
+  "development": {
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"]
+}
